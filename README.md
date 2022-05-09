@@ -1,2 +1,2 @@
-# discord.txt
-Copy of Discord without databases! Only clean PHP!
+# PHPcord
+Discord Clone created using basic PHP!
