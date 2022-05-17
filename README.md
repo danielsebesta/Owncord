@@ -1,2 +1,2 @@
-# PHPcord
-Discord Clone created using basic PHP!
+# Owncord
+Tool for creating Self-hosted Discord servers.
